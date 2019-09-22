@@ -1,0 +1,12 @@
+[submodule "dapp-ui"]
+	path = dapp-ui
+	url = git@github.com:A-T-Dot/dapp-ui.git
+[submodule "substrate-castor"]
+	path = substrate-castor
+	url = git@github.com:A-T-Dot/substrate-castor.git
+[submodule "castor-events-listener"]
+	path = castor-events-listener
+	url = git@github.com:A-T-Dot/castor-events-listener.git
+[submodule "castor-server"]
+	path = castor-server
+	url = git@github.com:A-T-Dot/castor-server.git
