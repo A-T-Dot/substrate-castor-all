@@ -1,13 +1,14 @@
 # substrate-castor-all
 
-1.substrate-castor
+[1.substrate-castor](#1.substrate-castor)
 
-2.castor-events-listener
+[2.castor-events-listener](#2.castor-events-listener)
 
-3.castor-server
+[3.castor-server](#3.castor-server)
 
-4.dapp-ui
+[4.dapp-ui](#4.dapp-ui)
 
+[Castor.network Pitch for Hackathon](https://shimo.im/slides/K9VD8r8xp6kQd6yJ/)
 
 ---------------------------
 
@@ -16,22 +17,6 @@
 
 A new SRML-based Substrate node, ready for hacking.
 
-### TODO
----
-#### anakornk
-- [x] Node Creation and Ownership Transfer
-- [x] Simulate GE creation, stake and invest
-- [x] Multi-TCX per GE, Simulates TCX 5 steps
-- [x] Add sourcing features for nodes
-
-#### lignyxg
-- [ ] Compute Voting Power
-- [ ] Link with GE
-
-##### optional
-- [ ] GE Withdraw
-- [ ] add security/conditional checks (esp. TCX)
----
 
 #### Custom Types
 ```
@@ -302,10 +287,3 @@ A.T.Dot dapp ui.
 - prevent duplicate links
 - add arrow head to line links with css
 - add features to remove and delete links
-
-### 注意
-```
-对于account相关，默认使用账户 5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty
-/api/v1/accounts/5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty/tasks
-/api/v1/accounts/5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty/nodes
-```
