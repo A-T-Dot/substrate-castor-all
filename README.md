@@ -1,12 +1,12 @@
 # substrate-castor-all
 
-[1.substrate-castor](#1.substrate-castor)
+[1.substrate-castor](#1substrate-castor)
 
-[2.castor-events-listener](#2.castor-events-listener)
+[2.castor-events-listener](#2castor-events-listener)
 
-[3.castor-server](#3.castor-server)
+[3.castor-server](#3castor-server)
 
-[4.dapp-ui](#4.dapp-ui)
+[4.dapp-ui](#4dapp-ui)
 
 [Castor.network Pitch for Hackathon](https://shimo.im/slides/K9VD8r8xp6kQd6yJ/)
 
